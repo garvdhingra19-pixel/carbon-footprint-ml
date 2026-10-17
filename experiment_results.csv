@@ -1,0 +1,4 @@
+Model,Accuracy (%),Emissions (g CO2),Duration (s)
+Logistic Regression,78.06,3.4675212046801883e-06,0.03
+Random Forest,94.38,0.0358314243956908,11.48
+PyTorch Neural Net,98.6,0.02048600706380282,5.6

@@ -1,0 +1,8 @@
+
+codecarbon
+scikit-learn
+torch
+pandas
+matplotlib
+seaborn
+numpy
